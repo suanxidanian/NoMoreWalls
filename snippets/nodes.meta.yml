@@ -2023,16 +2023,6 @@ proxies:
   sni: flydg.flylink.cyou
   tls: false
   type: hysteria2
-- name: '@Daily_Configs'
-  obfs: salamander
-  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
-  password: 30cd031e-b4a6-4bc7-a99a-9642259fdeff
-  port: 35240
-  server: flyyg.flylink.cyou
-  skip-cert-verify: true
-  sni: flyyg.flylink.cyou
-  tls: false
-  type: hysteria2
 - name: '🛡️ @FreakConfig #1'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
@@ -2111,7 +2101,7 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #1'
+- name: '@Daily_Configs'
   password: 68821a5b-49db-49c7-924f-22b1441e5b30
   port: 443
   server: 107.173.127.166
@@ -2119,7 +2109,7 @@ proxies:
   sni: api.push.apple.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
+- name: '@Daily_Configs #1'
   password: 68821a5b-49db-49c7-924f-22b1441e5b30
   port: 443
   server: 198.23.130.211
@@ -2141,6 +2131,106 @@ proxies:
   server: 23.80.81.213
   skip-cert-verify: true
   sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: 澳大利亚
+  obfs: salamander
+  obfs-password: cP2sbTFOTkuTq1sW
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 25977
+  server: au1.gy6688.xyz
+  skip-cert-verify: true
+  sni: au1.gy6688.xyz
+  tls: false
+  type: hysteria2
+- name: 德国1
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 25352
+  server: dg1.gy6688.xyz
+  skip-cert-verify: true
+  sni: dg1.gy6688.xyz
+  tls: false
+  type: hysteria2
+- name: 荷兰1
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 24561
+  server: hl1.gy6688.xyz
+  skip-cert-verify: true
+  sni: hl1.gy6688.xyz
+  tls: false
+  type: hysteria2
+- name: 加拿大1
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 21254
+  server: jnd1.gy6688.xyz
+  skip-cert-verify: true
+  sni: jnd1.gy6688.xyz
+  tls: false
+  type: hysteria2
+- name: 距离下次重置剩余：1 天
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 22996
+  server: uuk1.tok8888.com
+  skip-cert-verify: true
+  sni: uuk1.tok8888.com
+  tls: false
+  type: hysteria2
+- name: 美国2
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 25851
+  server: uuk2.tok8888.com
+  skip-cert-verify: true
+  sni: uuk2.tok8888.com
+  tls: false
+  type: hysteria2
+- name: 美国3
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 21523
+  server: uuk3.tok8888.com
+  skip-cert-verify: true
+  sni: uuk3.tok8888.com
+  tls: false
+  type: hysteria2
+- name: 新加坡1
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 21190
+  server: xjp1.gy6688.xyz
+  skip-cert-verify: true
+  sni: xjp1.gy6688.xyz
+  tls: false
+  type: hysteria2
+- name: 印度1
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 24583
+  server: yd1.gy6688.xyz
+  skip-cert-verify: true
+  sni: yd1.gy6688.xyz
+  tls: false
+  type: hysteria2
+- name: 英国1
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 25060
+  server: yg1.gy6688.xyz
+  skip-cert-verify: true
+  sni: yg1.gy6688.xyz
   tls: false
   type: hysteria2
 - name: '🛡️ @FreakConfig #3'
@@ -2270,7 +2360,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #3'
+- name: '@Daily_Configs #2'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: e6eb767c-6275-4c0c-9232-75aa2a0e9952
