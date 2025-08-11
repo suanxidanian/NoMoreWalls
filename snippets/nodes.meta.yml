@@ -1911,7 +1911,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '🛡️ @FreakConfig #5'
+- name: '🛡️ @FreakConfig #4'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -2233,16 +2233,6 @@ proxies:
   sni: yg1.gy6688.xyz
   tls: false
   type: hysteria2
-- name: '🛡️ @FreakConfig #3'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  port: 35000
-  server: 206.71.158.40
-  skip-cert-verify: false
-  sni: pichondan.com
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
@@ -2280,14 +2270,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@Configology🫧'
-  password: J7VnJazPBw
-  port: 443
-  server: 91.98.34.130
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
 - name: آلمان 🇩🇪 @V2xay
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -2308,7 +2290,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🛡️ @FreakConfig #4'
+- name: '🛡️ @FreakConfig #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2380,7 +2362,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🛡️ @FreakConfig #6'
+- name: '🛡️ @FreakConfig #5'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
