@@ -98,7 +98,7 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇫🇷 #1'
+- name: 'Telegram:@config_proxy 😍 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -115,7 +115,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: FR_speednode_0032
+  name: FR_speednode_0045
   network: ws
   port: 8880
   server: 141.11.203.177
@@ -129,7 +129,7 @@ proxies:
     headers:
       Host: ip.langmanshanxi.top
     path: /TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560
-- name: FR_speednode_0033
+- name: FR_speednode_0046
   network: ws
   port: 8880
   server: 185.16.110.63
