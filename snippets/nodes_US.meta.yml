@@ -1332,7 +1332,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '🛡️ @FreakConfig #5'
+- name: '🛡️ @FreakConfig #4'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
