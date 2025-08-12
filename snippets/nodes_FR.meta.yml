@@ -98,7 +98,7 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #1'
+- name: 'Channel id: @ShadowProxy66🇫🇷 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
