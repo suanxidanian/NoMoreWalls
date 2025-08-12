@@ -37,22 +37,6 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
-- name: 'Channel id: @ShadowProxy66🇸🇬'
-  password: 3hszBhqVsUhqOOFWJlev6k6Tkc
-  port: 22509
-  server: 18.143.180.14
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇸🇬 #1'
-  password: 664S8kkvFHXmO1auxV6A9gKAHI
-  port: 8030
-  server: 18.143.168.252
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: 新加坡
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056
@@ -112,14 +96,6 @@ proxies:
   sni: www.baidu.com
   type: trojan
   udp: true
-- name: 新加坡3|@ripaojiedian
-  network: tcp
-  password: f60cd513-7b83-4b64-936c-f7e88e95dacd
-  port: 8233
-  server: 120.240.118.187
-  skip-cert-verify: true
-  sni: steamcdn-a.akamaihd.net
-  type: trojan
 - name: SG_speednode_0124
   network: ws
   port: 8880

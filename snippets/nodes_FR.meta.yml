@@ -90,7 +90,15 @@ proxies:
     headers:
       Host: wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir
     path: /
-- name: 'Channel id: @ShadowProxy66🇫🇷'
+- name: 'ViP RGB🚀 #30'
+  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
+  port: 46502
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇫🇷 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32

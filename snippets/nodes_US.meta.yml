@@ -1300,29 +1300,11 @@ proxies:
   tls: true
   type: socks5
 - name: 'Channel id: @ShadowProxy66🇺🇸 #1'
-  obfs: salamander
-  obfs-password: do6T6UBnoZ9FhY4a
-  password: 661c828f-2bd3-4b17-b93e-66441ed620d8
-  port: 2053
-  server: 107.172.50.179
-  skip-cert-verify: true
-  sni: us01.kittycdn.pp.ua
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
   server: 198.23.130.211
   skip-cert-verify: true
   sni: file-oss-ccs-02.dafei.de
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #3'
-  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
-  port: 443
-  server: 104.168.34.109
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 美国🇺🇸
@@ -1333,16 +1315,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #4'
+- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
   obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: ba3c2ddf-237d-4f41-a6b5-9706ec5de0fd
-  port: 31008
+  obfs-password: OGU1NTEyMGE2ZDhkODdhOQ==
+  password: b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214
+  port: 80
   server: 45.136.245.177
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #5'
+- name: 'Channel id: @ShadowProxy66🇺🇸 #3'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -1442,7 +1424,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-tUM6KYmbwV.download.microsoft.com
+    host: 202507282137611-8jPSOxErXG.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
