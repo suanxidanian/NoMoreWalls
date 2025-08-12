@@ -101,16 +101,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 新加坡1
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 21190
-  server: xjp1.gy6688.xyz
-  skip-cert-verify: true
-  sni: xjp1.gy6688.xyz
-  tls: false
-  type: hysteria2
 - name: 新加坡|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
