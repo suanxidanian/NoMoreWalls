@@ -1332,7 +1332,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #3'
+- name: '@V2rayBaaz'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130

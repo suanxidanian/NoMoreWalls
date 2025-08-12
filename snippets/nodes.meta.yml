@@ -1948,7 +1948,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #3'
+- name: '@V2rayBaaz'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -1964,7 +1964,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇫🇷 #1'
+- name: '@V2rayBaaz #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -2703,6 +2703,14 @@ proxies:
   type: hysteria2
 - name: '@SaghiVpnXBOT 🇩🇪[🇩🇪]'
   password: xnChC7dKZ8
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: 👉🆔@v2ray_configs_pool📡🇦🇪®️Unit...
+  password: zPb5RRsckD
   port: 443
   server: android.yas-nowin.ir
   skip-cert-verify: false
