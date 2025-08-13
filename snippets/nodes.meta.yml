@@ -2002,7 +2002,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: Telegram:@config_proxy 😍
+- name: 'Telegram:@config_proxy 😍 #1'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -2145,6 +2145,14 @@ proxies:
   server: 185.126.255.78
   skip-cert-verify: false
   sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: Telegram:@config_proxy 😍
+  password: 23c15759-0c36-4158-a54a-c6ef49025a53
+  port: 22153
+  server: hsxg.huasuan666.top
+  skip-cert-verify: true
+  sni: hsxg.huasuan666.top
   tls: false
   type: hysteria2
 - name: 美国10 付费推荐：https://dafei.de
