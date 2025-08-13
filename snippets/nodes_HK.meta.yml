@@ -21,6 +21,14 @@ proxies:
   sni: www.tesla.cn
   tls: false
   type: hysteria2
+- name: 香港
+  password: 38589924-caf7-4857-812b-80020febd3ff
+  port: 10880
+  server: ssssssssssssssssssssssssssss-mualhk229.hizui.cn
+  skip-cert-verify: true
+  sni: ssssssssssssssssssssssssssss-mualhk229.hizui.cn
+  tls: false
+  type: hysteria2
 - name: 🇭🇰香港2
   password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
   port: 443
@@ -57,6 +65,14 @@ proxies:
   port: 29282
   server: 47.74.34.102
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '香港 #1'
+  password: XK52yierGckONMJWbJnuskD3unI
+  port: 12854
+  server: 47.242.195.121
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '🇭🇰香港 #2'
