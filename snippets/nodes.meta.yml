@@ -1174,7 +1174,7 @@ proxies:
   tls: true
   type: socks5
 - auth: 5CBqBh6MeDq6GajcilBiDg==
-  name: 'Channel id: @ShadowProxy66🇺🇸'
+  name: 'Channel id: @ShadowProxy66🇺🇸 #1'
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
@@ -1845,7 +1845,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #1'
+- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
   server: 198.23.130.211
@@ -1970,7 +1970,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
+- name: 'Channel id: @ShadowProxy66🇺🇸 #3'
   obfs: salamander
   obfs-password: OGU1NTEyMGE2ZDhkODdhOQ==
   password: b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214
@@ -1995,7 +1995,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇭🇰'
+- name: 'Channel id: @ShadowProxy66🇭🇰 #2'
   password: cc83a02b-90ea-403b-9c76-27e4be95f637
   port: 50256
   server: 154.204.181.230
@@ -2065,7 +2065,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇭🇰 #1'
+- name: 'Channel id: @ShadowProxy66🇭🇰 #3'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -2575,6 +2575,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: '@Daily_Configs #2'
+  obfs: salamander
+  obfs-password: aA@8795
+  password: FREEEE_7.87958795
+  port: 443
+  server: 91.107.251.13
+  skip-cert-verify: true
+  sni: fast.com
+  tls: false
+  type: hysteria2
 - name: آلمان 🇩🇪 @V2xay
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -2705,7 +2715,7 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
+- name: '@Daily_Configs #3'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: e6eb767c-6275-4c0c-9232-75aa2a0e9952
