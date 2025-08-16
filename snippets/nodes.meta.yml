@@ -224,6 +224,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 26🍰@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 652cc5d4-afbb-48f0-bb80-93bbc00b0415
+  port: 33659
+  server: hl.dport.top
+  skip-cert-verify: true
+  sni: hl.dport.top
+  tls: false
+  type: hysteria2
 - name: 'Channel id: @ShadowProxy66🇺🇸 #2'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
