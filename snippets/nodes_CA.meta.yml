@@ -1,5 +1,5 @@
 proxies:
-- name: ⏰62@oneclickvpnkeys
+- name: 'Channel id: @ShadowProxy66🇨🇦'
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 129.153.52.235
@@ -15,7 +15,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: CA_speednode_0025
+- name: CA_speednode_0024
   network: ws
   port: 8880
   server: 74.49.214.186
