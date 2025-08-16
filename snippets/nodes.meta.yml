@@ -355,7 +355,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: آلمان 🇩🇪 @V2xay
+- name: ⏰42@oneclickvpnkeys
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -574,13 +574,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: GB 1 🇬🇧 | @v2xay
-  password: 07a95561-a7c6-40fb-b964-45c83a2833bf
-  port: 51234
-  server: 185.184.70.120
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3'
   password: '123456'
   port: 443
@@ -641,16 +634,6 @@ proxies:
   server: dg.dport.top
   skip-cert-verify: true
   sni: dg.dport.top
-  tls: false
-  type: hysteria2
-- name: NL 🇳🇱 | @v2xay
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 51e23a46-c92a-477f-9675-d2a8088f9bbf
-  port: 33659
-  server: hl.dport.top
-  skip-cert-verify: true
-  sni: hl.dport.top
   tls: false
   type: hysteria2
 - name: '美国10 付费推荐：https://dafei.de #1'
@@ -819,24 +802,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: GB 🇬🇧 | @v2xay
-  password: cf125f42-759d-4112-82c3-014d2ffcb1e7
-  port: 1443
-  server: 185.85.242.177
-  skip-cert-verify: true
-  sni: gbr1.587458.xyz
-  tls: false
-  type: hysteria2
-- name: TR 4 🇹🇷 | @v2xay
-  obfs: salamander
-  obfs-password: Mzc5NTA3MjVlZDMyYTYyMA==
-  password: d84be3ca-d0b6-4bd0-9b61-db86d7c65969
-  port: 443
-  server: 212.115.41.93
-  skip-cert-verify: true
-  sni: aparat.com
-  tls: false
-  type: hysteria2
 - name: '美国10 付费推荐：https://dafei.de #4'
   password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
   port: 45000
@@ -859,14 +824,6 @@ proxies:
   server: 46.17.41.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: FR 2 🇫🇷 | @v2xay
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #9'

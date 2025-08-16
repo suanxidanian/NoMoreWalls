@@ -7,16 +7,6 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '🛡️ @FreakConfig #1'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 51e23a46-c92a-477f-9675-d2a8088f9bbf
-  port: 33653
-  server: dg.dport.top
-  skip-cert-verify: true
-  sni: dg.dport.top
-  tls: false
-  type: hysteria2
 - name: '@SaghiVpnXBOT 🇩🇪[🇩🇪]'
   password: xnChC7dKZ8
   port: 443
