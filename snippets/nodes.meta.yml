@@ -168,7 +168,7 @@ proxies:
   sni: ssssssssssssssssssssssssssss-mualhk229.hizui.cn
   tls: false
   type: hysteria2
-- name: UK
+- name: 🇩🇪telegram ➠ @v2rayNG_Matsuri
   password: 3C8h8X6kimbOX68joVe3kTERw
   port: 7197
   server: 206.189.20.193
@@ -673,6 +673,16 @@ proxies:
   server: 91.98.34.130
   skip-cert-verify: false
   sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: 🇬🇧telegram ➠ @v2rayNG_Matsuri
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
 - name: TEL > SaghiVpnXBOT 🍌[🇳🇱]
