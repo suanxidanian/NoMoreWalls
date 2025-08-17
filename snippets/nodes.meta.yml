@@ -258,24 +258,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: Telegram:@config_proxy 😍
-  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-  port: 54530
-  server: 40.233.83.189
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #2'
-  obfs: salamander
-  obfs-password: GdQ4bgvT8RFwuWi2
-  password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
-  port: 30205
-  server: net2025.afsharidempire.uk
-  skip-cert-verify: true
-  sni: net2025.afsharidempire.uk
-  tls: false
-  type: hysteria2
 - name: 'Channel id: @proxy_kafee🇫🇷'
   password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
   port: 46502
@@ -360,7 +342,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #3'
+- name: 🍰30@oneclickvpnkeys
   password: Y5kSCRNcOSz5YQUkjehzVXeT2mk
   port: 19298
   server: 175.41.154.215
