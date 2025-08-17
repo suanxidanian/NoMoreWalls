@@ -15,7 +15,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #4'
+- name: 'Telegram:@config_proxy 😍 #3'
   password: Y5kSCRNcOSz5YQUkjehzVXeT2mk
   port: 19298
   server: 175.41.154.215
