@@ -722,20 +722,21 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 💎کانفیگ های بیشتر در چنل تلگرا...
-  password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
-  port: 31468
-  server: 77.223.214.193
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '美国10 付费推荐：https://dafei.de #2'
   password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
   port: 45000
   server: 23.80.81.213
   skip-cert-verify: true
   sni: www.apple.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: Telegram:@config_proxy 😍
+  password: 9742ff4c-95a3-4395-bbe9-011ecd91f4b4
+  port: 14549
+  server: 58.152.53.196
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #4'
@@ -803,7 +804,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: Telegram:@config_proxy 😍
+- name: '@HiByeVPNN👈⚡❤️‍🔥'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
