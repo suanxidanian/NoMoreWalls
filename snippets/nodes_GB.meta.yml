@@ -7,6 +7,22 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: UK家宽
+  password: 7GEEGxAfgQaVPQX0PGk7lIuj3I
+  port: 10820
+  server: 158.41.110.234
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇬🇧 #1'
+  password: O0URQrRTemVsvUP6jvcBwEIN7Ng
+  port: 10832
+  server: 35.178.136.205
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: GB_speednode_0051
   network: ws
   port: 8880

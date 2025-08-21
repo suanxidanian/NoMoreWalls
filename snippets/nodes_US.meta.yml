@@ -31,7 +31,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 美国
+- name: 🇸🇬SG
   password: KYIFgW1don6L8TaDBJHynafxZ0
   port: 4763
   server: 47.237.23.83
@@ -95,6 +95,22 @@ proxies:
   server: 208.87.243.187
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'US #1'
+  password: peEduuHzbExjK7UQHzazXwqgA
+  port: 27704
+  server: 166.88.164.9
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇸 @Cyber_Ta🌐
+  password: 0a0f1f4a-40d9-47b4-aca5-0b281daea3bb
+  port: 443
+  server: us.myyfqh.tech
+  skip-cert-verify: false
+  sni: us.myyfqh.tech
   tls: false
   type: hysteria2
 - name: 美国10 付费推荐：https://dafei.de

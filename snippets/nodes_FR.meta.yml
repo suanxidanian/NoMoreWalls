@@ -1,4 +1,12 @@
 proxies:
+- name: FR
+  password: 45b46edb-679b-4ea5-befd-88c05bb94f80
+  port: 2056
+  server: de.eyucdn.xyz
+  skip-cert-verify: true
+  sni: de.eyucdn.xyz
+  tls: false
+  type: hysteria2
 - name: 'Channel id: @@singbox1🇫🇷'
   password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
   port: 46502
