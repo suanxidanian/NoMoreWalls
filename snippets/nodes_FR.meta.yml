@@ -7,13 +7,6 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 'Channel id: @@singbox1🇫🇷'
-  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
-  port: 46502
-  server: 172.252.236.213
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
 - name: '☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4'
   password: dongtaiwang.com
   port: 5355

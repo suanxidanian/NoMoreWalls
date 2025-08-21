@@ -136,14 +136,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @@singbox1🇯🇵'
-  password: 262100bd-a0c7-4412-a62d-a07d01f11a6a
-  port: 443
-  server: 153.121.42.218
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
 - name: 🇯🇵日本
   password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
   port: 443
@@ -330,14 +322,6 @@ proxies:
   sni: hsxg.huasuan666.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @@singbox1🇨🇦 #1'
-  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-  port: 54530
-  server: 192.18.150.167
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🥤2@oneclickvpnkeys
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
@@ -346,20 +330,6 @@ proxies:
   server: net2025.afsharidempire.uk
   skip-cert-verify: true
   sni: net2025.afsharidempire.uk
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @@singbox1🇫🇷'
-  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
-  port: 46502
-  server: 172.252.236.213
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @@singbox1🇺🇦'
-  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
-  port: 59494
-  server: 185.126.255.78
-  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: HK
@@ -509,15 +479,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @@singbox1🇺🇸 #3'
-  obfs: salamander
-  obfs-password: OGU1NTEyMGE2ZDhkODdhOQ==
-  password: b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214
-  port: 80
-  server: 45.136.245.177
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 🇯🇵日本东京
   password: b866d83a-d301-4270-b699-40f322bf52fb
   port: 443
@@ -541,14 +502,6 @@ proxies:
   port: 33079
   server: 45.136.245.177
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @@singbox1🇭🇰 #2'
-  password: cc83a02b-90ea-403b-9c76-27e4be95f637
-  port: 50256
-  server: 154.204.181.230
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '🇭🇰香港 #3'

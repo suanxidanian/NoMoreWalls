@@ -55,15 +55,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @@singbox1🇺🇸 #3'
-  obfs: salamander
-  obfs-password: OGU1NTEyMGE2ZDhkODdhOQ==
-  password: b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214
-  port: 80
-  server: 45.136.245.177
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 'Channel id: @ShadowProxy66🇺🇸 #2'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==

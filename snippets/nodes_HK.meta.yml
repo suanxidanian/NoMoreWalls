@@ -76,14 +76,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @@singbox1🇭🇰 #2'
-  password: cc83a02b-90ea-403b-9c76-27e4be95f637
-  port: 50256
-  server: 154.204.181.230
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '🇭🇰香港 #3'
   password: de8854c7-fa17-4266-ae18-50a9732a0c4e
   port: 3001
