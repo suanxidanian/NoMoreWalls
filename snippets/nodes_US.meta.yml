@@ -80,7 +80,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '🛡️ @FreakConfig #4'
+- name: 'Channel id: @ShadowProxy66🇺🇸 #4'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -102,22 +102,6 @@ proxies:
   server: us.myyfqh.tech
   skip-cert-verify: false
   sni: us.myyfqh.tech
-  tls: false
-  type: hysteria2
-- name: 美国10 付费推荐：https://dafei.de
-  password: 527a7c04-9a2c-4fdb-aa18-37337e62e917
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: '美国10 付费推荐：https://dafei.de #1'
-  password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
   tls: false
   type: hysteria2
 - cipher: chacha20-ietf-poly1305
