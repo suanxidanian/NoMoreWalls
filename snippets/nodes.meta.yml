@@ -208,7 +208,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: FR
+- name: 'Telegram:@config_proxy 😍 #1'
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -347,6 +347,13 @@ proxies:
   server: 209.38.144.136
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: Telegram:@config_proxy 😍
+  password: JWLQunPJgg2xi8Edm304q9Vqw
+  port: 2050
+  server: 161.35.157.233
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 🇸🇬SG
@@ -558,14 +565,6 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #5'
-  password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
-  port: 43057
-  server: 203.174.82.145
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🧁91@oneclickvpnkeys
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
@@ -722,6 +721,14 @@ proxies:
   server: 109.120.135.123
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '@'
+  password: 366dad01-dd99-47be-92fa-6beddd09fff9
+  port: 22157
+  server: hshl.huasuan666.top
+  skip-cert-verify: true
+  sni: hshl.huasuan666.top
   tls: false
   type: hysteria2
 - name: 🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل...
@@ -894,6 +901,14 @@ proxies:
   sni: YAPC-1.afshin.ir?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN
   tls: false
   type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #2'
+  password: a503efc7-b681-466f-be23-434483b2a07b
+  port: 22158
+  server: hsfg.huasuan666.top
+  skip-cert-verify: true
+  sni: hsfg.huasuan666.top
+  tls: false
+  type: hysteria2
 - name: 🇦🇪 𝐔𝐀𝐄 𝟚 - 𝐆𝐚𝐦𝐞
   obfs: salamander
   obfs-password: esdxfcghoewaahabvrrbU9dfghjh
@@ -916,6 +931,14 @@ proxies:
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs #5'
+  password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
+  port: 43057
+  server: 203.174.82.145
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
