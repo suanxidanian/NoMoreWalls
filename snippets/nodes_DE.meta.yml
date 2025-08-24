@@ -1,5 +1,13 @@
 proxies:
-- name: 💎کانفیگ های بیشتر در چنل تلگرا...
+- name: 德国
+  password: 66975a45-dd40-4854-ba7b-80157a38dd64
+  port: 40001
+  server: dg.dimoyun.top
+  skip-cert-verify: true
+  sni: dg.dimoyun.top
+  tls: false
+  type: hysteria2
+- name: Telegram:@config_proxy 💦
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193

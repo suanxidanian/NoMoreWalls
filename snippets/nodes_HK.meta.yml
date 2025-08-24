@@ -53,7 +53,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '香港 #1'
+- name: '香港 #2'
   password: XK52yierGckONMJWbJnuskD3unI
   port: 12854
   server: 47.242.195.121

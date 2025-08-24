@@ -7,7 +7,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸'
+- name: 'Channel id: @proxy_kafee🇺🇸'
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
@@ -15,7 +15,15 @@ proxies:
   sni: 192-227-152-86.nip.io
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #1'
+- name: 美国 @vlees_v2rayng
+  password: 66975a45-dd40-4854-ba7b-80157a38dd64
+  port: 40001
+  server: mg.dimoyun.top
+  skip-cert-verify: true
+  sni: mg.dimoyun.top
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @proxy_kafee🇺🇸 #1'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
   server: 198.23.130.211
@@ -55,7 +63,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
+- name: 'Channel id: @proxy_kafee🇺🇸 #2'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: c8631767-f45c-4f48-bf19-5405e6d18679
@@ -80,7 +88,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #4'
+- name: 'Channel id: @proxy_kafee🇺🇸 #4'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
