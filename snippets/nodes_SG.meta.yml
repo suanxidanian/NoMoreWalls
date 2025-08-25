@@ -87,7 +87,8 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 新加坡|@ripaojiedian
+- client-fingerprint: chrome
+  name: 新加坡|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 320
@@ -95,7 +96,8 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 新加坡2|@ripaojiedian
+- client-fingerprint: chrome
+  name: 新加坡2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 48397
