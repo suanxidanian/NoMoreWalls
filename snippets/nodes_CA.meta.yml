@@ -7,11 +7,18 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 🇨🇦 @Cyber_Ta🌐
-  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-  port: 47262
-  server: 40.233.73.221
-  skip-cert-verify: true
-  sni: www.bing.com
+- client-fingerprint: chrome
+  name: CA_speednode_0005
+  network: ws
+  port: 8880
+  server: 74.49.214.63
+  servername: jp.laoyoutiao.link
+  skip-cert-verify: false
   tls: false
-  type: hysteria2
+  type: vless
+  udp: true
+  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  ws-opts:
+    headers:
+      Host: jp.laoyoutiao.link
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2560
