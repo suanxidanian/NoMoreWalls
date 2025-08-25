@@ -7,7 +7,7 @@ proxies:
   sni: dg.dimoyun.top
   tls: false
   type: hysteria2
-- name: 💎کانفیگ های بیشتر در چنل تلگرا...
+- name: Telegram:@config_proxy 💦
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
