@@ -7,7 +7,7 @@ proxies:
   sni: dg.dimoyun.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @proxy_kafee🇩🇪'
+- name: Telegram:@config_proxy 💦
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -21,6 +21,37 @@ proxies:
   server: 3.75.180.49
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل...
+  password: 3QlSMKyqLp
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: '🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #1'
+  password: Bz0jKM83wa
+  port: 443
+  server: android.yas-nowin.ir
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: '🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها #2'
+  password: J7VnJazPBw
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: '@SaghiVpnXBOT 🇩🇪[🇩🇪]'
+  password: xnChC7dKZ8
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
