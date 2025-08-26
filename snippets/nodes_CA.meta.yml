@@ -8,7 +8,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: CA_speednode_0005
+  name: CA_speednode_0004
   network: ws
   port: 8880
   server: 74.49.214.63
