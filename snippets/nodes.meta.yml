@@ -236,7 +236,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: Telegram:@config_proxy 😍
+- name: '@Selinc'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -338,7 +338,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@'
+- name: '@ZenixVPN_Channel'
   password: 366dad01-dd99-47be-92fa-6beddd09fff9
   port: 22157
   server: hshl.huasuan666.top
@@ -354,7 +354,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '@ #1'
+- name: '@ZenixVPN_Channel #1'
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -562,6 +562,14 @@ proxies:
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '@ZenixVPN_Channel #2'
+  password: a503efc7-b681-466f-be23-434483b2a07b
+  port: 22158
+  server: hsfg.huasuan666.top
+  skip-cert-verify: true
+  sni: hsfg.huasuan666.top
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #8'
