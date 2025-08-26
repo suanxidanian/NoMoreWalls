@@ -1,13 +1,5 @@
 proxies:
-- name: '@ #1'
-  password: 45b46edb-679b-4ea5-befd-88c05bb94f80
-  port: 2056
-  server: de.eyucdn.xyz
-  skip-cert-verify: true
-  sni: de.eyucdn.xyz
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #23'
+- name: '☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
