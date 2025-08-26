@@ -151,7 +151,7 @@ proxies:
   sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
-- name: 💎کانفیگ های بیشتر در چنل تلگرا...
+- name: Telegram:@config_proxy 💦
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -455,6 +455,17 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: '@Change_IP1-HYS'
+  obfs: salamander
+  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
+  password: JLsEBzvWlyyTmM7yND0jXjQg
+  port: 443
+  server: 147.45.154.150
+  sni: anymath.ir
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -463,6 +474,28 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '@Change_IP1-HYS #1'
+  obfs: salamander
+  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
+  password: M4DUOPrnAJhCXCBGoTA2xLDA
+  port: 443
+  server: 147.45.154.150
+  sni: anymath.ir
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '@Change_IP1-HYS #2'
+  obfs: salamander
+  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
+  password: MomB5gcusrDl2k67OfsTUEJK
+  port: 443
+  server: 147.45.154.150
+  sni: anymath.ir
   tls: false
   type: hysteria2
 - name: '@Daily_Configs #3'
@@ -478,6 +511,17 @@ proxies:
   server: 47.236.104.81
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '@Change_IP1-HYS #3'
+  obfs: salamander
+  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
+  password: UiIoI79ktLVSpD8Fh6vTq5l5
+  port: 443
+  server: 147.45.154.150
+  sni: anymath.ir
   tls: false
   type: hysteria2
 - name: '☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2'
@@ -560,6 +604,17 @@ proxies:
   server: android.yas-nowin.ir
   skip-cert-verify: false
   sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '@Change_IP1-HYS #5'
+  obfs: salamander
+  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
+  password: wieZ9G0FbEecGx2kXaZLchtt
+  port: 443
+  server: 147.45.154.150
+  sni: anymath.ir
   tls: false
   type: hysteria2
 - name: '@ELFV2RAY #1'
