@@ -7,7 +7,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @@proxy_kafee🇩🇪 #1'
+- name: DE
   password: 7JnRmdeMP4gsvp0nXjYofBNvsdk
   port: 7414
   server: 3.75.180.49
