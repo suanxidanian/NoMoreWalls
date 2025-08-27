@@ -618,6 +618,30 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: Telegram:@config_proxy 😍
+  password: 07c122ad-50b2-4f61-9435-efcf112bb10b
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #1'
+  password: 0cb527d9-6117-4bcf-a52b-1704b3458cef
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #2'
+  password: 1045aedf-053c-4585-875d-e2fc3f3ea6dd
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
 - name: '@V2rayNG3'
   password: '123456'
   port: 443
@@ -652,6 +676,46 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #3'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2b7f3256-517f-4526-be27-5415846c5e21
+  port: 25784
+  server: dehub.xg-hub.icu
+  skip-cert-verify: true
+  sni: dehub.xg-hub.icu
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #4'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2b7f3256-517f-4526-be27-5415846c5e21
+  port: 25782
+  server: hkhub.xg-hub.icu
+  skip-cert-verify: true
+  sni: hkhub.xg-hub.icu
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #5'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2b7f3256-517f-4526-be27-5415846c5e21
+  port: 25783
+  server: krhub.xg-hub.icu
+  skip-cert-verify: true
+  sni: krhub.xg-hub.icu
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #6'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2b7f3256-517f-4526-be27-5415846c5e21
+  port: 25785
+  server: ukhub.xg-hub.icu
+  skip-cert-verify: true
+  sni: ukhub.xg-hub.icu
+  tls: false
+  type: hysteria2
 - name: '@ZenixVPN_Channel'
   password: 366dad01-dd99-47be-92fa-6beddd09fff9
   port: 22157
@@ -668,12 +732,56 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #7'
+  password: 45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #8'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 548ebf25-b52b-4ba6-a513-b919faa1ed6d
+  port: 25781
+  server: jphub.xg-hub.icu
+  skip-cert-verify: true
+  sni: jphub.xg-hub.icu
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #9'
+  password: 5eaa121d-4362-444d-8219-29b02c35303a
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #10'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 5fbe139f-c1e0-4b92-bb3c-7f68035962c3
+  port: 33656
+  server: hg.dport.top
+  skip-cert-verify: true
+  sni: hg.dport.top
+  tls: false
+  type: hysteria2
 - name: '@V2rayNG3 #3'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
   server: s15.serv00.com
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #11'
+  password: 80b2ac81-ba69-41f9-bb46-820b7b3af4dd
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: 🇺🇲@FreakConfig
@@ -689,6 +797,46 @@ proxies:
   server: 185.126.255.78
   skip-cert-verify: false
   sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #12'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 9f7987cf-d2fd-4b99-89cf-8b3009bd4235
+  port: 33653
+  server: dg.dport.top
+  skip-cert-verify: true
+  sni: dg.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #13'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 9f7987cf-d2fd-4b99-89cf-8b3009bd4235
+  port: 33656
+  server: hg.dport.top
+  skip-cert-verify: true
+  sni: hg.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #14'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 9f7987cf-d2fd-4b99-89cf-8b3009bd4235
+  port: 33659
+  server: hl.dport.top
+  skip-cert-verify: true
+  sni: hl.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #15'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 9f7987cf-d2fd-4b99-89cf-8b3009bd4235
+  port: 33657
+  server: rb.dport.top
+  skip-cert-verify: true
+  sni: rb.dport.top
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #4'
@@ -840,7 +988,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #1'
+- name: 'Telegram:@config_proxy 😍 #16'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -876,6 +1024,14 @@ proxies:
   server: hsfg.huasuan666.top
   skip-cert-verify: true
   sni: hsfg.huasuan666.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #17'
+  password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #8'
@@ -922,7 +1078,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '@Change_IP1-HYS #5'
+  name: '@Change_IP1-HYS #4'
   obfs: salamander
   obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
   password: wieZ9G0FbEecGx2kXaZLchtt
