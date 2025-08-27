@@ -294,16 +294,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🥤2@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: GdQ4bgvT8RFwuWi2
-  password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
-  port: 30205
-  server: net2025.afsharidempire.uk
-  skip-cert-verify: true
-  sni: net2025.afsharidempire.uk
-  tls: false
-  type: hysteria2
 - name: HK
   password: Cyi3TPih9FtQRwsZAh8aT6ynGJk
   port: 2166
@@ -357,16 +347,6 @@ proxies:
   server: 35.94.124.236
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs #5'
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
 - name: 🇺🇸US
@@ -488,14 +468,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 🏵️98@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 50066
-  server: 51.158.218.2
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4'
   password: dongtaiwang.com
   port: 5355
@@ -594,14 +566,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🚜57@oneclickvpnkeys
-  password: wxiTacqUnFMT6QPG1xHX578Omo
-  port: 7444
-  server: 138.197.185.116
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: 'JP #1'
   password: yD0mxkCA18WgPD1uVGd3Eu1dc
   port: 27789
@@ -666,6 +630,13 @@ proxies:
   server: s15.serv00.com
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: Telegram:@config_proxy 😍
+  password: 7GEEGxAfgQaVPQX0PGk7lIuj3I
+  port: 10820
+  server: 158.41.110.234
+  sni: ًں”’
   tls: false
   type: hysteria2
 - name: 🇺🇲@FreakConfig
@@ -809,6 +780,16 @@ proxies:
   server: 47.236.104.81
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs #5'
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
 - alpn:
