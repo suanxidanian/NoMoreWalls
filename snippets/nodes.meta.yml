@@ -354,36 +354,12 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: Telegram:@config_proxy 😍
-  password: 413c8b50-96bf-4457-82f2-54dfa8685f53
-  port: 48141
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
 - name: '@ZenixVPN_Channel #1'
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
   skip-cert-verify: true
   sni: de.eyucdn.xyz
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #1'
-  password: 48c2c901-72e6-46d4-ac78-169d73264cbf
-  port: 48141
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #2'
-  password: 52816135-d3bc-46bc-a915-09886a2e2b2e
-  port: 48141
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #3'
@@ -399,14 +375,6 @@ proxies:
   port: 22154
   server: hsxjp.huasuan666.top
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #3'
-  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
-  port: 48141
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: '→ @Hddify #1'
