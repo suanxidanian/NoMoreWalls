@@ -625,16 +625,6 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
-  obfs: salamander
-  obfs-password: aA@8795
-  password: FREEEE_7.87958795
-  port: 443
-  server: 91.107.251.13
-  skip-cert-verify: true
-  sni: fast.com
-  tls: false
-  type: hysteria2
 - name: '@ELFV2RAY'
   password: J7VnJazPBw
   port: 443
@@ -694,7 +684,7 @@ proxies:
   sni: anymath.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #3'
+- name: '@Daily_Configs #2'
   password: NjEkAYYNqFKUbrksyW1COBtdpU
   port: 2428
   server: 47.239.220.214
@@ -709,7 +699,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #5'
+- name: '@Daily_Configs #4'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -750,7 +740,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #6'
+- name: '@Daily_Configs #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -768,7 +758,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #7'
+- name: '@Daily_Configs #6'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
