@@ -374,6 +374,15 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: Telegram:@config_proxy 😍
+  obfs: salamander
+  obfs-password: OGU1NTEyMGE2ZDhkODdhOQ==
+  password: ac09066f-0ec5-45cf-b5d2-50ab44440eec
+  port: 80
+  server: 45.136.245.177
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '🇭🇰香港 #2'
   password: b57bbf70-8958-4ae5-b6fd-bcf39b81900c
   port: 63518
@@ -540,6 +549,26 @@ proxies:
   sni: gb.gomeow.online
   tls: false
   type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #2'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 1f84e51f-c290-4426-9468-3060af826425
+  port: 10000
+  server: 45.149.92.111
+  skip-cert-verify: true
+  sni: hk.gzcloud.shop
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #3'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 1f84e51f-c290-4426-9468-3060af826425
+  port: 52000
+  server: gzddns.776577.xyz
+  skip-cert-verify: true
+  sni: gzddns.776577.xyz
+  tls: false
+  type: hysteria2
 - name: → @Hddify
   password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
   port: 43429
@@ -558,12 +587,44 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #4'
+  password: 23125f6e-ec56-4c26-9714-0bbacdb53d01
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #5'
+  password: 29fbd51f-03c8-4d76-849a-436e54d58317
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
 - name: 🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل...
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
   skip-cert-verify: false
   sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #6'
+  password: 48c2c901-72e6-46d4-ac78-169d73264cbf
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #7'
+  password: 6bf726db-fb0b-405b-899a-3e263f092eda
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #3'
@@ -585,6 +646,14 @@ proxies:
   password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
   port: 43429
   server: 185.126.255.78
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #9'
+  password: 9c859345-959f-491b-b6fc-65cd7a57aeb3
+  port: 58718
+  server: 172.252.236.213
   skip-cert-verify: false
   sni: real.getafreenode.sbs
   tls: false
@@ -782,6 +851,14 @@ proxies:
   server: 62.60.231.189
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #10'
+  password: f901861b-6491-450c-b500-606b2e921625
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: '🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2'
