@@ -176,7 +176,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: FR
+- name: 🇩🇪@FreakConfig
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -438,7 +438,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4'
+- name: 🇨🇵@FreakConfig
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
