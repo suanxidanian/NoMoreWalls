@@ -31,6 +31,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🇸🇬@FreakConfig
+  password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
+  port: 30308
+  server: 47.236.104.81
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 'SG #4'
   password: XON4wZ0sXe1YaqFY2FeM7uZY4
   port: 15221

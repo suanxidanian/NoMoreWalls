@@ -311,6 +311,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🇸🇬@FreakConfig
+  password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
+  port: 30308
+  server: 47.236.104.81
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 🇺🇸US
   password: Wjes5mJnUmH7kwzpgZX5d2BeCs
   port: 13438
@@ -689,14 +697,6 @@ proxies:
   port: 2428
   server: 47.239.220.214
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🇸🇬@FreakConfig
-  password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
-  port: 30308
-  server: 47.236.104.81
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: '@Daily_Configs #4'
