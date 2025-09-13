@@ -141,14 +141,6 @@ proxies:
   sni: hl.dport.top
   tls: false
   type: hysteria2
-- name: '@HiByeVPNN👈⚡❤️‍🔥'
-  password: 77b85b4f-8f73-495c-b919-a8fb386ca541
-  port: 22160
-  server: hsels.huasuan666.top
-  skip-cert-verify: true
-  sni: hsels.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: 💎کانفیگ های بیشتر در چنل تلگرا...
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
