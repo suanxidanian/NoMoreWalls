@@ -1,104 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 防范境外势*渗透
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888880
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #1'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888881
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #2'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888882
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #3'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888883
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #4'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888884
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #5'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888885
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #6'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888886
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #7'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888887
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #8'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-- alterId: 0
-  cipher: auto
-  name: '防范境外势*渗透 #9'
-  network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888889
 - name: 美国2
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
@@ -320,14 +220,6 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 🕹️41@v2ray_configs_pools
-  password: AmWCbxhVSBz7b1XL9ZNJSReMCxdFZlxX
-  port: 36713
-  server: 107.173.11.163
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: 🕹️53@v2ray_configs_pools
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -472,16 +364,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'تلگرام : MTMVPN'
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: 130.49.161.70
-  skip-cert-verify: true
-  sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
 - name: '@meliproxyy'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -570,18 +452,13 @@ proxies:
   sni: https://www.calmloud.com
   tls: false
   type: hysteria2
-- cipher: aes-256-cfb
-  name: tg频道:@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 63.180.254.10
-  type: ss
 - alterId: 2
   cipher: auto
-  name: 🇭🇰 香港|@ripaojiedian
-  port: 30807
+  name: 香港|@ripaojiedian
+  network: tcp
+  port: '30807'
   server: v10.hdacd.com
-  skip-cert-verify: false
+  servername: ''
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
@@ -681,16 +558,6 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alterId: 2
-  cipher: auto
-  name: 香港|@ripaojiedian
-  network: tcp
-  port: '30807'
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: AE_speednode_0001
   network: ws
   password: MITIVPN

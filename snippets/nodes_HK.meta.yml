@@ -8,10 +8,11 @@ proxies:
   type: hysteria2
 - alterId: 2
   cipher: auto
-  name: 🇭🇰 香港|@ripaojiedian
-  port: 30807
+  name: 香港|@ripaojiedian
+  network: tcp
+  port: '30807'
   server: v10.hdacd.com
-  skip-cert-verify: false
+  servername: ''
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
@@ -39,16 +40,6 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alterId: 2
-  cipher: auto
-  name: 香港|@ripaojiedian
-  network: tcp
-  port: '30807'
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: HK_speednode_0008
   password: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
   port: 8443
