@@ -190,12 +190,13 @@ proxies:
   sni: 144.225.187.184
   tls: false
   type: hysteria2
-- name: 🇫🇮FI
+- name: 🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
   port: 443
   server: fiproxy1.lockdwn.com
+  skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
@@ -273,14 +274,6 @@ proxies:
   server: pg-usa2-hy2.gigatapbot.top
   skip-cert-verify: true
   sni: pg-usa2-hy2.gigatapbot.top
-  tls: false
-  type: hysteria2
-- name: 🇰🇷143250 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.124.150.77
-  skip-cert-verify: true
-  sni: css.rbxcdn.com
   tls: false
   type: hysteria2
 - name: 🇭🇰HK
@@ -698,7 +691,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 🇺🇸143215 | ⚡️Telegram = t.me/S...
+- name: 1⚛️@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 18.118.193.169
